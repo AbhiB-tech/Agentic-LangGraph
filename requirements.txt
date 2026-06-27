@@ -1,3 +1,11 @@
 langgraph
 langchain
 langsmith
+langchain_community
+langchain-openai
+langchain-groq
+langchain_anthropic
+python-dotenv
+langchain-google-genai
+langchain_tavily
+ipykernel
